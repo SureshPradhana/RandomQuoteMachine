@@ -1,0 +1,15 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(Kingthings-Trypewriter/Kingthings_Trypewriter_2.ttf);
+  }
+body{
+    background-color:white;
+}
+#text{
+    font-family: myFirstFont;
+    color:white;
+}
+#author{
+    font-family: myFirstFont;
+    color:white;
+}
